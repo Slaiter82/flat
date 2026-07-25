@@ -12,6 +12,8 @@ int main(void)
 
 	game();
 // edit1
+
+//Edit2
 	getchar(); 
 	getchar();
 	return 0;
