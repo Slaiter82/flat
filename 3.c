@@ -11,7 +11,9 @@ int main(void)
 	//printf("TIME:%d", time(NULL));
 
 	game();
+// edit1
 
+//Edit2
 	getchar(); 
 	getchar();
 	return 0;
