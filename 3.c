@@ -15,12 +15,12 @@ int main(void)
 
 //Edit2
 
-<<<<<<< HEAD
-//Editi3
-//edit44
-=======
 	//EDIT3
->>>>>>> e3a875f867436bddd160dc83c4f03e78c613ccc5
+
+
+
+
+	//EDIT 6!!!
 	getchar(); 
 	getchar();
 	return 0;
